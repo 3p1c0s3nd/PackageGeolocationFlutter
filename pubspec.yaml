@@ -1,0 +1,19 @@
+name: geolocation_info_ip
+description: "Esta libreria te permite obtener la ip del dispositivo y la geolocalizar"
+version: 0.0.1
+homepage: https://emmpieza.com/
+
+environment:
+  sdk: '>=3.5.0-231.0.dev <4.0.0'
+  flutter: ">=1.17.0"
+
+#dependencies:
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+dependencies:
+  dio: ^5.4.3+1
+
