@@ -132,6 +132,6 @@ class GeolocationModel {
 
   @override
   String toString() {
-    return '${ip} ${city} ${countryName}';
+    return '{$ip, $country, $countryCode}';
   }
 }

@@ -40,7 +40,7 @@ Este package permite obtener informacion de la ip donde el dispositivo se encuen
 
 ```dart
 import 'package:flutter/material.dart';
-import 'package:geolocation_info_ip/geolocation_test.dart';
+import 'package:geolocation_info_ip/geolocation_info_ip.dart';
 
 void main() {
   runApp(const MyApp());
